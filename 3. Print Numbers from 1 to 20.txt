@@ -1,0 +1,7 @@
+3. Print Numbers from 1 to 20
+   Step 1: Start
+   Step 2: Set counter i = 1
+   Step 3: While i <= 20, repeat Steps 4 and 5
+   Step 4: Print i
+   Step 5: Set i = i + 1
+   Step 6: Stop

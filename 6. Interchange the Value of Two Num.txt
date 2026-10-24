@@ -1,0 +1,8 @@
+6. Interchange the Value of Two Numbers
+   Step 1: Start
+   Step 2: Read two numbers A and B
+   Step 3: Set Temp = A
+   Step 4: Set A = B
+   Step 5: Set B = Temp
+   Step 6: Print updated values of A and B
+   Step 7: Stop

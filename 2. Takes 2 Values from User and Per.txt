@@ -1,0 +1,10 @@
+2. Takes 2 Values from User and Perform All Arithmetic Operations
+   Step 1: Start
+   Step 2: Read two numbers A and B 10,2
+   Step 3: Calculate Sum = A + B = 10
+   Step 4: Calculate Difference = A - B = 10
+   Step 5: Calculate Multiplication = A * B = 0
+   Step 6: If B is not equal to 0, calculate Quotient = A / B and Remainder = A % B
+           Else, display error "Division by zero is not allowed"
+   Step 7: Print Sum, Difference, Product, Quotient, and Remainder
+   Step 8: Stop

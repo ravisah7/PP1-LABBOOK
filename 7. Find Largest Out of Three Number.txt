@@ -1,0 +1,8 @@
+7. Find Largest Out of Three Numbers
+   Step 1: Start
+   Step 2: Read three numbers A, B, and C
+   Step 3: If A >= B and A >= C, set Largest = A
+   Step 4: Else if B >= C, set Largest = B
+   Step 5: Else, set Largest = C
+   Step 6: Print Largest
+   Step 7: Stop

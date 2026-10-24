@@ -1,0 +1,11 @@
+8. Find Out Fibonacci Series Up to Given n Values
+   Step 1: Start
+   Step 2: Read the total number of terms n
+   Step 3: Set first = 0, second = 1, count = 1
+   Step 4: While count <= n, repeat Steps 5 to 9
+   Step 5: Print first
+   Step 6: Set next = first + second
+   Step 7: Set first = second
+   Step 8: Set second = next
+   Step 9: Set count = count + 1
+   Step 10: Stop

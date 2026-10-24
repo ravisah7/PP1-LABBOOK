@@ -1,0 +1,10 @@
+10. Find Out Sum of Digits of a Given Number
+    Step 1: Start
+    Step 2: Read a positive integer N
+    Step 3: Set Sum = 0
+    Step 4: While N > 0, repeat Steps 5 to 7
+    Step 5: Set Digit = N % 10
+    Step 6: Set Sum = Sum + Digit
+    Step 7: Set N = N / 10 (integer division)
+    Step 8: Print Sum
+    Step 9: Stop

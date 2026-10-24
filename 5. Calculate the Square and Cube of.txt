@@ -1,0 +1,7 @@
+5. Calculate the Square and Cube of a Number
+   Step 1: Start
+   Step 2: Read a number N
+   Step 3: Calculate Square = N * N
+   Step 4: Calculate Cube = N * N * N
+   Step 5: Print Square and Cube
+   Step 6: Stop

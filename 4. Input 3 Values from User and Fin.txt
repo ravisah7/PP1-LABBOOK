@@ -1,0 +1,8 @@
+4. Input 3 Values from User and Find Out Its Average
+   Step 1: Start
+   Step 2: Read three values A, B, and C
+   Step 3: Calculate Sum = A + B + C
+   Step 4: Calculate Average = Sum / 3
+   Step 5: Print Average
+   Step 6: Stop
+

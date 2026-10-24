@@ -1,0 +1,6 @@
+9. Find Out Number is Odd or Even
+   Step 1: Start
+   Step 2: Read a number N
+   Step 3: If N % 2 == 0, print "Even"
+   Step 4: Else, print "Odd"
+   Step 5: Stop
